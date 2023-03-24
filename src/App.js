@@ -40,7 +40,7 @@ function App() {
 export default App;
 */
 
-/*import './styles/App.css';
+import './styles/App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import React, { useState } from 'react';
 import Element from './components/element';
@@ -110,9 +110,9 @@ function App() {
   );
 }
 
-export default App;*/
+export default App;
 
-import './styles/App.css';
+/*import './styles/App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import React from 'react';
 import Element from './components/element';
@@ -189,4 +189,4 @@ function App() {
   );
 }
 
-export default App;
+export default App;*/
