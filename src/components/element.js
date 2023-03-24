@@ -6,8 +6,8 @@ function Element() {
 export default Element;*/
 import React from 'react';
 
-function Element(props) {
-  return <div className="element">{props.value}</div>;
+function Element({value}) {
+  return <div className="element">{value}</div>;
 }
 
 export default Element;
